@@ -6,5 +6,5 @@
    →  It is a simple java application showing message and time using docker.
 2. **[Flask app](https://github.com/Kartikpawar143/Fflask-app-ecs.git)** <br>
    →  It is a python application showing message on browser using docker.
-3. **[Two Tier Flask app](https://github.com/Kartikpawar143/Two-Tier-Flask-App/blob/main/README.md)** <br>
+3. **[Two Tier Flask app](https://github.com/Kartikpawar143/Two-Tier-Flask-App/tree/main)** <br>
    →  It is a application which connects with the mysql database.
