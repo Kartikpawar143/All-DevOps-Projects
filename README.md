@@ -8,3 +8,5 @@
    →  It is a python application showing message on browser using docker.
 3. **[Two Tier Flask app](https://github.com/Kartikpawar143/Two-Tier-Flask-App/tree/main)** <br>
    →  It is a application which connects with the mysql database.
+4. **[Django notes app](https://github.com/Kartikpawar143/Django-notes-app)** <br>
+   →  It is a 3 tier application uses Nginx, Django and Mysql. 
