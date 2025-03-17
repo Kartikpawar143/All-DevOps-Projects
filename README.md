@@ -10,5 +10,5 @@
    →  It is a application which connects with the mysql database.
 4. **[Django notes app](https://github.com/Kartikpawar143/Django-notes-app)** <br>
    →  It is a 3 tier application uses Nginx, Django and Mysql.
-5. **[Expensees Tracker WebApp](https://github.com/Kartikpawar143/Expenses-Tracker-WebApp.git)** <br>
+5. **[Expenses Tracker WebApp](https://github.com/Kartikpawar143/Expenses-Tracker-WebApp.git)** <br>
    →  It is a 3 tier application uses Maven, Spring and Mysql. 
