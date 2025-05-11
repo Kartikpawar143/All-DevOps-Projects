@@ -13,4 +13,11 @@
 5. **[Expenses Tracker WebApp](https://github.com/Kartikpawar143/Expenses-Tracker-WebApp.git)** <br>
    →  It is a 3 tier application uses Maven, Spring and Mysql. 
 
+<h2 align="left">Kubernetes Projects</h2>
+
+1. **[Kubernetes Setup](https://github.com/Kartikpawar143/kubestarter)** <br>
+   →  Sepup of k8s in different ways.
+
+   
 <h2 align="left">Ansible Projects</h2>
+
