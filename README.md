@@ -31,3 +31,19 @@
 <h2 align="left">Ansible Projects</h2>
 
 WORK IN PROCESS.
+
+<h2 align="left">Jenkins Projects</h2>
+
+WORK IN PROCESS.
+
+<h2 align="left">Prometheus Projects</h2>
+
+WORK IN PROCESS.
+
+<h2 align="left">Grafana Projects</h2>
+
+WORK IN PROCESS.
+
+<h2 align="left">Teraform Projects</h2>
+
+WORK IN PROCESS.
