@@ -30,8 +30,11 @@
 2. **[Kubernetes Learning](https://github.com/Kartikpawar143/Kubernetes-Learning)** <br>
    →  Learning kubernetes all concepts and all yml files.
 
-2. **[Django Notes App K8S](https://github.com/Kartikpawar143/Django-Notes-App-K8S.git)** <br>
+2. **[Django Notes App](https://github.com/Kartikpawar143/Django-Notes-App-K8S.git)** <br>
    →  Deployed a notes app through a k8s.
+
+3. **[Kubernetes MCP server with AI](https://github.com/Kartikpawar143/Kubernetes-MCP-server-with-AI--Project.git)** <br>
+   →  This Kubernetes project was done using AI — without writing a single line of code! 😱
 
    
 <h2 align="left">Ansible Projects</h2>
