@@ -10,16 +10,16 @@
 1. **[Simple Java App Docker](https://github.com/Kartikpawar143/Simple-Java-App)** <br>
    →  It is a simple java application showing message and time using docker.
    
-3. **[Flask app](https://github.com/Kartikpawar143/Fflask-app-ecs.git)** <br>
+2. **[Flask app](https://github.com/Kartikpawar143/Fflask-app-ecs.git)** <br>
    →  It is a python application showing message on browser using docker.
    
-5. **[Two Tier Flask app](https://github.com/Kartikpawar143/Two-Tier-Flask-App/tree/main)** <br>
+3. **[Two Tier Flask app](https://github.com/Kartikpawar143/Two-Tier-Flask-App/tree/main)** <br>
    →  It is a application which connects with the mysql database.
    
-7. **[Django notes app](https://github.com/Kartikpawar143/Django-notes-app)** <br>
+4. **[Django notes app](https://github.com/Kartikpawar143/Django-notes-app)** <br>
    →  It is a 3 tier application uses Nginx, Django and Mysql.
    
-9. **[Expenses Tracker WebApp](https://github.com/Kartikpawar143/Expenses-Tracker-WebApp.git)** <br>
+5. **[Expenses Tracker WebApp](https://github.com/Kartikpawar143/Expenses-Tracker-WebApp.git)** <br>
    →  It is a 3 tier application uses Maven, Spring and Mysql. 
 
 <h2 align="left">Kubernetes Projects</h2>
@@ -30,11 +30,14 @@
 2. **[Kubernetes Learning](https://github.com/Kartikpawar143/Kubernetes-Learning)** <br>
    →  Learning kubernetes all concepts and all yml files.
 
-2. **[Django Notes App](https://github.com/Kartikpawar143/Django-Notes-App-K8S.git)** <br>
+3. **[Django Notes App](https://github.com/Kartikpawar143/Django-Notes-App-K8S.git)** <br>
    →  Deployed a notes app through a k8s.
 
-3. **[Kubernetes MCP server with AI](https://github.com/Kartikpawar143/Kubernetes-MCP-server-with-AI--Project.git)** <br>
+4. **[Kubernetes MCP server with AI](https://github.com/Kartikpawar143/Kubernetes-MCP-server-with-AI--Project.git)** <br>
    →  This Kubernetes project was done using AI — without writing a single line of code! 😱
+
+5. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
+   →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 
    
 <h2 align="left">Ansible Projects</h2>
@@ -47,9 +50,13 @@ WORK IN PROCESS.
 
 <h2 align="left">Prometheus Projects</h2>
 
-WORK IN PROCESS.
+1. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
+   →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 
 <h2 align="left">Grafana Projects</h2>
+
+1. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
+   →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 
 WORK IN PROCESS.
 
