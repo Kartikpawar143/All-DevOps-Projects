@@ -5,7 +5,13 @@
 1. **[All About DevOps](https://github.com/Kartikpawar143/devops-exercises)** <br>
    →  This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
 
-<h2 align="left">Docker Projects</h2>
+<h2 align="left">DevOps Mega Exercise</h2>
+
+1. **[DevOps Swiggy Project](https://github.com/Kartikpawar143/DevOps-Project-Swiggy)** <br>
+   → In this real-time DevOps project, deploy a Swiggy Clone App using various modern tools and services in the DevOps ecosystem.
+
+
+<h2 align="left">Docker Mini Projects</h2>
 
 1. **[Simple Java App Docker](https://github.com/Kartikpawar143/Simple-Java-App)** <br>
    →  It is a simple java application showing message and time using docker.
