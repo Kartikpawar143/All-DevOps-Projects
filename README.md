@@ -8,7 +8,7 @@
 <h2 align="left">DevOps Mega Exercise</h2>
 
 1. **[DevOps Swiggy Project](https://github.com/Kartikpawar143/DevOps-Project-Swiggy)** <br>
-   → In this real-time DevOps project, deploy a Swiggy Clone App using various modern tools and services in the DevOps ecosystem.
+   →  In this real-time DevOps project, deploy a Swiggy Clone App using various modern tools and services in the DevOps ecosystem.
 
 
 <h2 align="left">Docker Mini Projects</h2>
