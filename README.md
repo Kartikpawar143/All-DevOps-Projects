@@ -11,7 +11,10 @@
    →  In this real-time DevOps project, deploy a Swiggy Clone App using various modern tools and services in the DevOps ecosystem.
 
 
-<h2 align="left">Docker Mini Projects</h2>
+<h2 align="left">DevOps Mini Projects</h2>
+
+<h3 align="left">Docker Projects</h3>
+
 
 1. **[Simple Java App Docker](https://github.com/Kartikpawar143/Simple-Java-App)** <br>
    →  It is a simple java application showing message and time using docker.
@@ -28,7 +31,7 @@
 5. **[Expenses Tracker WebApp](https://github.com/Kartikpawar143/Expenses-Tracker-WebApp.git)** <br>
    →  It is a 3 tier application uses Maven, Spring and Mysql. 
 
-<h2 align="left">Kubernetes Projects</h2>
+<h3 align="left">Kubernetes Projects</h3>
 
 1. **[Kubernetes Setup](https://github.com/Kartikpawar143/kubestarter)** <br>
    →  Sepup of k8s in different ways.
@@ -46,7 +49,7 @@
    →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 
    
-<h2 align="left">Ansible Projects</h2>
+<h3 align="left">Ansible Projects</h3>
 
 WORK IN PROCESS.
 
@@ -54,12 +57,12 @@ WORK IN PROCESS.
 
 WORK IN PROCESS.
 
-<h2 align="left">Prometheus Projects</h2>
+<h3 align="left">Prometheus Projects</h3>
 
 1. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
    →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 
-<h2 align="left">Grafana Projects</h2>
+<h3 align="left">Grafana Projects</h3>
 
 1. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
    →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
