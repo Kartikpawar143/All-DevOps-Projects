@@ -10,6 +10,8 @@
 1. **[DevOps Swiggy Project](https://github.com/Kartikpawar143/DevOps-Project-Swiggy)** <br>
    →  In this real-time DevOps project, deploy a Swiggy Clone App using various modern tools and services in the DevOps ecosystem.
 
+2. **[DevSecOps BoardGame](https://github.com/Kartikpawar143/BoardGame)** <br>
+   →  🚀 Built an Advanced DevSecOps CI/CD Pipeline using Jenkins, SonarQube, Trivy, Nexus, Docker, and Kubernetes, with integrated Prometheus + Grafana monitoring and email notifications for a complete enterprise-grade automation workflow.
 
 <h2 align="left">DevOps Mini Projects</h2>
 
