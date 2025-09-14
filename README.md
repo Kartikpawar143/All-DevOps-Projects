@@ -69,8 +69,10 @@ WORK IN PROCESS.
 1. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
    →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 
-WORK IN PROCESS.
-
 <h2 align="left">Teraform Projects</h2>
 
-WORK IN PROCESS.
+1. **[Terraform-Learning](https://github.com/Kartikpawar143/Terraform-Learning.git)** <br>
+   →  Learning Terraform.
+
+2. **[Terraform-Modules-App](https://github.com/Kartikpawar143/Terraform-Modules-App.git)** <br>
+   →  Creating a infrastructure of EC2, VPC, Dynamodb, S3 and many more.
