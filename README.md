@@ -57,7 +57,7 @@
    →  Less Manual Work, More Smart Work.
 
    
-<h2 align="left">Jenkins Projects</h2>
+<h3 align="left">Jenkins Projects</h3>
 
 WORK IN PROCESS.
 
@@ -71,7 +71,7 @@ WORK IN PROCESS.
 1. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
    →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 
-<h2 align="left">Teraform Projects</h2>
+<h3 align="left">Teraform Projects</h3>
 
 1. **[Terraform-Learning](https://github.com/Kartikpawar143/Terraform-Learning.git)** <br>
    →  Learning Terraform.
